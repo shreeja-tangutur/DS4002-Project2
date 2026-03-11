@@ -1,0 +1,4 @@
+Pollutant,Metric,High Pop Mean,Low Pop Mean,U-statistic,p-value,Effect Size (r),Significance
+Fine particles (PM 2.5),Trend Slope,-0.0433,-0.0571,42.0,0.9296,-0.037,ns
+Fine particles (PM 2.5),Seasonal Amplitude,3.1578,2.8952,45.0,0.7239,-0.111,ns
+Fine particles (PM 2.5),Residual RMSE,0.8910,0.7011,55.0,0.2164,-0.358,ns
