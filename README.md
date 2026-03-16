@@ -33,7 +33,7 @@ UVA_DS_4002_Group_4_Project_1_text_data/
 ```
 
 ## Instructions for Reproducing Results
-Clone the GitHub repository and download the csv files containing the dataset. Run the data_cleaning_visualizations.ipynb and performed_analysis.ipynb and jupyter notebook scripts found within the SCRIPTS folder. Compare the generated results with the results within the OUTPUT folder. Our results (in the form of bar charts) reveal…
+Clone the GitHub repository and download the csv files containing the dataset. Run the data_cleaning_visualizations.ipynb and performed_analysis.ipynb and jupyter notebook scripts found within the SCRIPTS folder. Compare the generated results with the results within the OUTPUT folder. Our results reveal…
 - The top 5 CDs with the highest average PM2.5 are Midtwon, Stuyvesant Town and Turtle Bay, Clinton and Chelsea, Greenwhich Village and Soho, and the Financial District. 
 - The average PM2.5 concentration in the environment seems to be decreasing over time (years)
 - Below are our statistics for the STL decomposition and Mann-Whitney Test:
