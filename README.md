@@ -34,14 +34,12 @@ UVA_DS_4002_Group_4_Project_1_text_data/
 
 ## Instructions for Reproducing Results
 Clone the GitHub repository and download the csv files containing the dataset. Run the data_cleaning_visualizations.ipynb and performed_analysis.ipynb and jupyter notebook scripts found within the SCRIPTS folder. Compare the generated results with the results within the OUTPUT folder. Our results (in the form of bar charts) reveal…
-- The top 10 most frequent words in news article titles are: student, uva, committee, university, council, board, discus, honor, new, archive
-- The top 10 most frequent words in opinion article titles are: editorial, uva, student, parting, shot, virginia, must, letter, university, kurtzweil
-- A two column chart containing the numeric frequency counts of the 26 most common words in the News and Opinion articles.
-- Below are our statistics:
-   - Chi-square statistic: 438.90
-   - Degrees of freedom: 24
-   - P-value: 0.000000
-
+- The top 5 CDs with the highest average PM2.5 are Midtwon, Stuyvesant Town and Turtle Bay, Clinton and Chelsea, Greenwhich Village and Soho, and the Financial District. 
+- The average PM2.5 concentration in the environment seems to be decreasing over time (years)
+- Below are our statistics for the STL decomposition and Mann-Whitney Test:
+   - Trend Slope for High Population: -0.0433 Low Population: -0.0571 p-value: 0.9296
+   - Seasonal Amplitude: High Population: 3.1578 Low Population: 2.8952 p-value: 0.7239	
+   - Residual RMSE: High Population: 0.8910 Low Population: 0.7011 p-value: 0.2164
 
 ## References
 [1] Rob J. Hyndman and George Athanasopoulos, “STL Decomposition,” Forecasting: Principles and
